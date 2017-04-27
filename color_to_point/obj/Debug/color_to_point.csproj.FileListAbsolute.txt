@@ -1,0 +1,100 @@
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\bin\Debug\color_to_point.exe.config
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\bin\Debug\color_to_point.exe
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\bin\Debug\color_to_point.pdb
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Blob.dll
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\bin\Debug\OpenCvSharp.dll
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Extensions.dll
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\bin\Debug\OpenCvSharp.UserInterface.dll
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\bin\Debug\OpenCvSharp.pdb
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\bin\Debug\OpenCvSharp.xml
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Blob.pdb
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Blob.xml
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Extensions.pdb
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Extensions.xml
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\bin\Debug\OpenCvSharp.UserInterface.pdb
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\bin\Debug\OpenCvSharp.UserInterface.xml
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\obj\Debug\color_to_point.csprojResolveAssemblyReference.cache
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\obj\Debug\color_to_point.Main.resources
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\obj\Debug\color_to_point.Properties.Resources.resources
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\obj\Debug\color_to_point.csproj.GenerateResource.Cache
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\obj\Debug\color_to_point.exe
+c:\users\86004771\documents\visual studio 2017\Projects\color_to_point\color_to_point\obj\Debug\color_to_point.pdb
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\color_to_point.exe.config
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\obj\Debug\color_to_point.exe
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\obj\Debug\color_to_point.pdb
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\color_to_point.exe
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\color_to_point.pdb
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.dll
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.pdb
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.xml
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\obj\Debug\color_to_point.csprojResolveAssemblyReference.cache
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\obj\Debug\color_to_point.Main.resources
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\obj\Debug\color_to_point.Properties.Resources.resources
+C:\Users\idry7lash629\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\obj\Debug\color_to_point.csproj.GenerateResource.Cache
+C:\Users\86004771\Desktop\color_to_point\color_to_point\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\86004771\Desktop\color_to_point\color_to_point\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\86004771\Desktop\color_to_point\color_to_point\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\86004771\Desktop\color_to_point\color_to_point\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\86004771\Desktop\color_to_point\color_to_point\bin\Debug\color_to_point.exe.config
+C:\Users\86004771\Desktop\color_to_point\color_to_point\bin\Debug\color_to_point.exe
+C:\Users\86004771\Desktop\color_to_point\color_to_point\bin\Debug\color_to_point.pdb
+C:\Users\86004771\Desktop\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\86004771\Desktop\color_to_point\color_to_point\bin\Debug\OpenCvSharp.dll
+C:\Users\86004771\Desktop\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\86004771\Desktop\color_to_point\color_to_point\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\86004771\Desktop\color_to_point\color_to_point\bin\Debug\OpenCvSharp.pdb
+C:\Users\86004771\Desktop\color_to_point\color_to_point\bin\Debug\OpenCvSharp.xml
+C:\Users\86004771\Desktop\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\86004771\Desktop\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\86004771\Desktop\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\86004771\Desktop\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\86004771\Desktop\color_to_point\color_to_point\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\86004771\Desktop\color_to_point\color_to_point\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\86004771\Desktop\color_to_point\color_to_point\obj\Debug\color_to_point.csprojResolveAssemblyReference.cache
+C:\Users\86004771\Desktop\color_to_point\color_to_point\obj\Debug\color_to_point.Main.resources
+C:\Users\86004771\Desktop\color_to_point\color_to_point\obj\Debug\color_to_point.Properties.Resources.resources
+C:\Users\86004771\Desktop\color_to_point\color_to_point\obj\Debug\color_to_point.csproj.GenerateResource.Cache
+C:\Users\86004771\Desktop\color_to_point\color_to_point\obj\Debug\color_to_point.exe
+C:\Users\86004771\Desktop\color_to_point\color_to_point\obj\Debug\color_to_point.pdb
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\color_to_point.exe.config
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\color_to_point.exe
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\color_to_point.pdb
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.dll
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.pdb
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.xml
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\obj\Debug\color_to_point.csprojResolveAssemblyReference.cache
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\obj\Debug\color_to_point.Main.resources
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\obj\Debug\color_to_point.Properties.Resources.resources
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\obj\Debug\color_to_point.csproj.GenerateResource.Cache
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\obj\Debug\color_to_point.exe
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\color_to_point\color_to_point\obj\Debug\color_to_point.pdb
